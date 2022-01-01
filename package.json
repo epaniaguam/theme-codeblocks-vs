@@ -1,0 +1,34 @@
+{
+    "name": "epm-theme",
+    "displayName": "epm-theme",
+    "description": "Thema similar al IDE Codeblocks",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Code Blocks Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Code Blocks Theme-color-theme.json"
+            }
+        ]
+    },
+    "icon":"icons/codeblocks-light.jpg",
+    "autor":{
+        "name": "Elian Paniagua",
+        "description": "Estudiante de Ing. en Informatica y Sistemas",
+        "email": "elian.paniagua.235@gmail.com",
+        "url": "https://www.linkedin.com/in/elianpaniagua/"
+    },
+    "repository": {
+        "url": "https://github.com/epaniaguam/theme-codeblocks-vs.git",
+        "type": "git"
+    },
+    "publisher": "codigo-epm"
+
+}
