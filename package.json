@@ -1,8 +1,8 @@
 {
     "name": "epm-theme",
-    "displayName": "Code Block epm theme",
+    "displayName": "Code Blocks epm-theme",
     "description": "Tema similar al IDE Codeblocks",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.63.0"
     },
